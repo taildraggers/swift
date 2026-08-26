@@ -176,7 +176,7 @@ LABELED_YEAR_RE = re.compile(r"\byear\W{0,6}(19\d{2}|20\d{2})\b", re.IGNORECASE)
 # title only (not the full ad body, where they're too likely to appear as
 # incidental description text).
 EXCLUDE_KEYWORDS = [
-    "parts", "part", "wing", "wings", "wheel", "wheels", "float", "floats",
+    "parts", "part", "wing", "wings", "wingtip", "wingtips", "wheel", "wheels", "float", "floats",
     "strut", "struts", "gear leg", "gear legs", "landing gear",
     "engine mount", "engine mounts", "prop", "props", "propeller",
     "propellers", "cowl", "cowling", "cowlings", "fairing", "fairings",
