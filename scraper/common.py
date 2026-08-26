@@ -176,7 +176,7 @@ LABELED_YEAR_RE = re.compile(r"\byear\W{0,6}(19\d{2}|20\d{2})\b", re.IGNORECASE)
 # title only (not the full ad body, where they're too likely to appear as
 # incidental description text).
 EXCLUDE_KEYWORDS = [
-    "parts", "part", "wing", "wings", "wingtip", "wingtips", "wheel", "wheels", "float", "floats",
+    "parts", "part", "wing", "wings", "wingtip", "wingtips", "wheel", "wheels", "wheeltire", "wheeltires", "float", "floats",
     "strut", "struts", "gear leg", "gear legs", "landing gear",
     "engine mount", "engine mounts", "prop", "props", "propeller",
     "propellers", "cowl", "cowling", "cowlings", "fairing", "fairings",
@@ -196,7 +196,7 @@ EXCLUDE_KEYWORDS = [
     "panel", "yoke", "control column", "controls", "cable", "cables",
     "throttle", "hardware", "hose", "hoses", "fitting", "fittings",
     "bearing", "bearings", "tailwheel", "upholstery", "sump", "dipstick",
-    "connecting rods", "stc",
+    "connecting rods", "stc", "governor", "governors", "winter front", "winter fronts",
     "raffle", "win a", "win an", "enter to win", "rental", "ferry pilot",
     "flight training", "instruction", "insurance", "financing", "wanted",
     "wtb", "consignment", "appraisal", "logistics",
