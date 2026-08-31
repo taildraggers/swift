@@ -197,6 +197,8 @@ EXCLUDE_KEYWORDS = [
     "throttle", "hardware", "hose", "hoses", "fitting", "fittings",
     "bearing", "bearings", "tailwheel", "upholstery", "sump", "dipstick",
     "connecting rods", "stc", "governor", "governors", "winter front", "winter fronts",
+    "spray boom", "spray booms", "hopper", "hoppers", "spreader", "spreaders",
+    "nozzle", "nozzles",
     "raffle", "win a", "win an", "enter to win", "rental", "ferry pilot",
     "flight training", "instruction", "insurance", "financing", "wanted",
     "wtb", "consignment", "appraisal", "logistics",
