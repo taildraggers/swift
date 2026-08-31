@@ -198,8 +198,10 @@ EXCLUDE_KEYWORDS = [
     "bearing", "bearings", "tailwheel", "upholstery", "sump", "dipstick",
     "connecting rods", "stc", "governor", "governors", "winter front", "winter fronts",
     "spray boom", "spray booms", "hopper", "hoppers", "spreader", "spreaders",
-    "nozzle", "nozzles",
+    "nozzle", "nozzles", "valve", "valves", "shock", "shocks", "rubber",
+    "intake", "intakes",
     "raffle", "win a", "win an", "enter to win", "rental", "ferry pilot",
+    "ferry service",
     "flight training", "instruction", "insurance", "financing", "wanted",
     "wtb", "consignment", "appraisal", "logistics",
 ]
